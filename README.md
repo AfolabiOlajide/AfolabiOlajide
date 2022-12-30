@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-I am [Afolabi Olajide Samuel](https://linkedin.com/in/afolabi-olajide) also known as [Cipherr](https://cipherr.netlify.app), I am a Front-end Developer enthusiastic and passionate about building and interpreting nicely designed UI's that gives users that feeling of premium and satisfaction when surfing a webpage 😌.
+I am [Afolabi Olajide Samuel](https://linkedin.com/in/afolabi-olajide) also known as [Cipherr](https://cipherr.netlify.app), I am a Front-end engineer and also a blockchain enthusiast, I love developing nicely designed UIs and creating logic that helps power web applications. 
 
 <br>
 
-<!-- ## I am a Frontend Developer! -->
 - 📚 I'm currently learning Back-end Development alongside Data Structures and Algorithm.
 - 💨 I'm currently working on projects that will increase my proficiency.
 - ✍️ I also aim to develop my technical writing skillset for proper documentation of projects.
-- 🏅 Participated and won numerous Blockchain Hackathons.
-- ⛑️ Open to Front-end roles or collaboration on a project.
-- ✨ Fun fact: I love 🐱's
+- 🏅 I have participated and won numerous Blockchain Hackathons.
+- ⛑️ I am open to Front-end roles or collaboration on a project.
+- ✨ Fun fact: I love 🐱's.
 
 
 ## Some Stats
