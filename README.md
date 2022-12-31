@@ -8,7 +8,7 @@ I am [Afolabi Olajide Samuel](https://linkedin.com/in/afolabi-olajide) also know
 - 💨 I'm currently working on projects that will increase my proficiency.
 - ✍️ I also aim to develop my technical writing skillset for proper documentation of projects.
 - 🏅 I have participated and won numerous Blockchain Hackathons.
-- ⛑️ I am open to Front-end roles or collaboration on a project.
+- ⛑️ I am open to Front-end roles or collaboration on any well thought out project.
 - ✨ Fun fact: I love 🐱's.
 
 
