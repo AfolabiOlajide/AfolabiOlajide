@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/uOiYQ0QMcphXHi61LNoqu0kkSFf52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOiYQ0QMcphXHi61LNoqu0kkSFf52" alt="GitRoll Profile Badge"/></a>
+
 ## Hi there 👋, I am [Afolabi Olajide Samuel](https://linkedin.com/in/afolabi-olajide)
 
  Also known as [Cipherr](https://cipherr.netlify.app), I am a Front-end engineer and also a blockchain enthusiast, I love developing nicely designed UIs and creating logic that helps power web applications. 
@@ -19,7 +21,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=AfolabiOlajide&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
 </div>
 
-<a href="https://gitroll.io/profile/uOiYQ0QMcphXHi61LNoqu0kkSFf52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOiYQ0QMcphXHi61LNoqu0kkSFf52" alt="GitRoll Profile Badge"/></a>
 
 [![wakatime](https://wakatime.com/badge/user/08a8b131-0ac9-48c5-b610-0f9792546dda.svg)](https://wakatime.com/@08a8b131-0ac9-48c5-b610-0f9792546dda)
 
