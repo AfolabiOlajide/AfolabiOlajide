@@ -19,6 +19,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=AfolabiOlajide&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
 </div>
 
+<a href="https://gitroll.io/profile/uOiYQ0QMcphXHi61LNoqu0kkSFf52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOiYQ0QMcphXHi61LNoqu0kkSFf52" alt="GitRoll Profile Badge"/></a>
+
 [![wakatime](https://wakatime.com/badge/user/08a8b131-0ac9-48c5-b610-0f9792546dda.svg)](https://wakatime.com/@08a8b131-0ac9-48c5-b610-0f9792546dda)
 
 [//]: <> (<a href="https://app.daily.dev/cipherr"><img src="https://api.daily.dev/devcards/90a1119f9e4f4063aeb7b82915755293.png?r=eta" width="400" alt="Afolabi Olajide Samuel's Dev Card"/></a>)
